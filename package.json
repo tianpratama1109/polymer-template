@@ -1,5 +1,5 @@
 {
-  "name": "ibc-app-solidity-template",
+  "name": "polymer-oxprtma",
   "version": "1.0.0",
   "description": "Template project to start building IBC enabled Solidity contracts, with Hardhat and Foundry support",
   "main": "index.js",
